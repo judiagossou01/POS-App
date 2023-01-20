@@ -1,0 +1,1 @@
+Point of Sales with inventory management system
